@@ -1,0 +1,29 @@
+.shimmer-wrapper {
+    position: absolute;
+    /* border: 5px solid red; */
+    margin-left: 6%;
+    margin-top: 5%;
+
+
+  }
+  
+  .shimmer {
+    position: absolute;
+    margin-top: 10%;
+    left: 0;
+    height: 200px ;
+    width: 25rem;
+    background-color: whitesmoke;
+    /* animation: shimmer 2s infinite; */
+    margin-left: 6%;
+  }
+  
+  /* @keyframes shimmer {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(100%);
+    }
+  } */
+  
